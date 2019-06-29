@@ -1,0 +1,35 @@
+.cardbox {width: 300px;
+          padding: 10px;
+          border: 1px solid grey;
+          border-radius: 25px;
+          box-shadow: 10px 10px 5px grey;
+          background-color: #8fff94;
+          }
+
+.imgbox {border-radius: 25px;
+         margin-bottom: 5px;
+        }
+
+.infobox {border: 1px solid grey;
+          border-radius: 25px;
+          padding: 5px;
+          background-color: #ffffcc;
+         }
+
+.italic {font-style: italic;
+        }
+
+.nodot {list-style-type: none;
+        padding: 10px;
+        }
+
+h3 {font-family: Pacifico;
+    font-size: 20pt;
+    padding: 5px;
+    margin: 5px;}
+
+span {font-weight: bold;
+     }
+
+p {padding: 10px;
+  }
